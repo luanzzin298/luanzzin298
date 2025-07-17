@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou o Luan</h1>
 
-<!--
-**luanzzin298/luanzzin298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👨‍💻 Técnico em Informática | Apaixonado por tecnologia e criatividade</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Ferramentas e Tecnologias:
+  - Git, GitHub
+  - VS Code
+  - Canva
+
+- 🌱 Sempre aprendendo e melhorando
+
+- 📫 Como falar comigo:
+  <a href="mailto:0001153623@senaimgaluno.com.br">✉️ E-mail</a> |
+  <a href="https://github.com/luanzzin298" target="_blank">🐙 GitHub</a> |
+  
+
+---
+
+<h3 align="center">📊 Estatísticas do GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanSilva&show_icons=true&theme=radical" alt="Luan's GitHub stats" />
+</p>
