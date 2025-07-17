@@ -18,6 +18,14 @@
 
 ---
 
+### 📌 Destaques:
+
+- 🔧 [Confira o protótipo para a solução de uma mecânica](https://www.canva.com/design/DAGsrTE6PRk/qNLEF4EDvkYvkYKerKME_w/edit?utm_content=DAGsrTE6PRk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- ➗ [Confira o menu de operações matemáticas](https://github.com/luanzzin298/atividademanha.git)
+
+---
+
 ### 📫 Como falar comigo:
 
 - ✉️ E-mail: [0001153623@senaimgaluno.com.br](mailto:0001153623@senaimgaluno.com.br)  
